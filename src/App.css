@@ -1,0 +1,154 @@
+  @import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+
+
+body{
+  font-family: 'Quicksand', sans-serif !important;
+ 
+  background-color: #1c1e29 !important;
+
+  color: white !important;
+
+  
+}
+/* ::selection {
+  color: red;
+  background: yellow;
+} */
+
+.inputBox{
+  /* background-color: #171f38; */
+  background-color: #282a36 !important;
+  
+
+  /* background-color: #808DAD; */
+}
+.mainBox{
+ 
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.inputBox{
+  width: 30vw !important;
+  border-radius: 10px;
+  
+}
+.inputBox input[type='text']{
+  width: 100%;
+  outline: none;
+  border-radius: 4px;
+  /* background-color: #808dad68; */
+  border: none;
+  font-weight: bold;
+  padding: 4px;
+
+}
+.inputBox button{
+ 
+  float: right;
+  background-color: #4aee88;
+  color: black !important;
+  border: none;
+  width: 90px;
+
+
+}
+.inputBox button:hover{
+  background-color: #2b824c;
+  transition:  0.2s ease-in;
+}
+.inputBox p{
+  font-size: small;
+}
+.inputBox a{
+  color: #4aee88;
+
+}
+.inputBox a:hover{
+  color: #2b824c;
+
+}
+.aside{
+  border-right: 2px solid #424242;
+  height: 100vh;
+}
+.CodeMirror{
+min-height: 88vh;
+  font-size: 15px;
+
+  line-height: 1.5;
+
+}
+@media (max-width:650px){
+  .inputBox{
+    width: 80vw !important ;
+  }
+  .inputBox button{
+    
+   float: none;
+    width: 100%;
+  
+
+  }
+
+
+  
+}
+
+
+  
+@media screen and (min-width: 370px) and (max-width: 770px) {
+  .aside{
+    /* border-bottom: 2px solid red !important; */
+    margin-bottom: 120px;
+  }
+  .clientsList{
+    /* border: 2px solid red; */
+    margin-bottom: 5%;
+  }
+  .mainCodeAreaWrapper{
+    /* border: 2px solid green; */
+    margin-top: 40% !important;
+  }
+  .col-md-9{
+    margin: 2%;
+    /* margin-top: 10% !important; */
+  }
+}
+/* @media screen and (min-width: 393px) and (max-width: 767px) {
+  .screen_adjust{
+    margin-top: 19px !important;
+  }
+} */
+
+
+
+
+.custom-input::placeholder {
+  color: white;  /* Placeholder text color */
+  opacity: 0.6;  /* Placeholder opacity */
+}
+
+.custom-input{
+  color: white;
+}
+::-webkit-scrollbar {
+  width: 3px;
+  height: 5px;
+  border-radius:5px ;
+  scrollbar-width: thin;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #808DAD63;
+  border-radius: 5px;
+}
+
