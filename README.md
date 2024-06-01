@@ -69,6 +69,9 @@ npm run server:dev
 ### Contact
 For any questions or feedback, please open an issue on the repository or contact the project maintainer.
 
+![author](https://img.shields.io/badge/author-Nirbhay--Kumar-blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nirbhaykrmuj/)
+
 
 
 ---
