@@ -1,4 +1,4 @@
-# <img src="path/to/your/logo.png" alt="Your CodeBuddy Logo" width="100">  Real-Time Collaborative Code Editor
+# <img src="website_preview/codeBuddy.png" alt="Your CodeBuddy Logo" height="150">  Real-Time Collaborative Code Editor
 
 ## Overview
 
@@ -63,8 +63,8 @@ npm run server:dev
 
 ### Future Improvements
 - 🔒 Enhanced Security: Implement authentication and authorization to secure rooms and user data.
--🌟 GitHub Integration: Add features to push code directly to GitHub repositories from within the app.
--🎥 Video Conferencing: Integrate a video feature to allow face-to-face communication during collaboration.
+- 🌟 GitHub Integration: Add features to push code directly to GitHub repositories from within the app.
+- 🎥 Video Conferencing: Integrate a video feature to allow face-to-face communication during collaboration.
 
 ### Contact
 For any questions or feedback, please open an issue on the repository or contact the project maintainer.
