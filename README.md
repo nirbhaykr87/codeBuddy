@@ -1,4 +1,4 @@
-# <img src="path/to/your/logo.png" alt="Your CodeBuddy Logo" width="100">  Real-Time Collaborative Code Editor
+# <img src="website_preview/codeBuddy.png" alt="Your CodeBuddy Logo" height="150">  Real-Time Collaborative Code Editor
 
 ## Overview
 
