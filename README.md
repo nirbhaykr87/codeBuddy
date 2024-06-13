@@ -77,4 +77,4 @@ For any questions or feedback, please open an issue on the repository or contact
 ---
 
 
-Happy Coding! 🎉
+<p align="center"> Happy Coding! 🎉</p>
